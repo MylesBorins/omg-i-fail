@@ -1,6 +1,6 @@
 {
   "name": "omg-i-fail",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Test suite always fails",
   "scripts": {
     "test": "exit 1"
