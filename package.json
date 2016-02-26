@@ -2,17 +2,13 @@
   "name": "omg-i-fail",
   "version": "1.0.0",
   "description": "Test suite always fails",
-  "main": "index.js",
   "scripts": {
-    "test": "tap test/test-*.js"
+    "test": "exit 1"
   },
   "keywords": [
     "always",
     "fails"
   ],
-  "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "tap": "^2.1.1"
-  }
+  "author": "Myles Borins <myles.borins@gmail.com>",
+  "license": "MIT"
 }
