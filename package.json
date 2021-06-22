@@ -1,6 +1,6 @@
 {
   "name": "omg-i-fail",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "Test suite always fails",
   "repository": "https://github.com/MylesBorins/omg-i-fail",
   "scripts": {
